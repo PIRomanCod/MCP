@@ -1,0 +1,15 @@
+https://huggingface.co/learn/mcp-course/unit1/mcp-clients
+
+
+Now you can run the agent:
+
+Copied
+tiny-agents run agent.json
+
+When you run the agent, you’ll see it load, listing the tools it has discovered from its connected MCP servers. Then, it’s ready for your prompts!
+
+Prompt used in this demo:
+
+do a Web Search for HF inference providers on Brave Search and open the first result and then give me the
+list of the inference providers supported on Hugging Face
+
